@@ -52,4 +52,4 @@ in the functon loadStats from sever line 47
 ### Confirming the fix
 
 <!-- How did you confirm the problem is gone? -->
-I confirm the fix by being able to see the stats avalible instead of stats unavaliable on the screen 
+I confirm the fix by being able to see the stats avalible instead of stats unavaliable on the screen, can check by being able ot get the api status
